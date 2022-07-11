@@ -12,7 +12,7 @@
 #### Additional:
  - **Skillbox:** C#-developer.
 
-### :muscle: My skills:
+### :hammer_and_wrench: Tools and language:
 
 <div align="center">
 
@@ -21,8 +21,6 @@
 <img width="5%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
 
 <img width="5%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dotnetcore/dotnetcore-original.svg"/>
-
-<img width="5%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg"/>
 
 <img width="5%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg"/>
 
@@ -47,4 +45,5 @@ ___
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/delend1337)
 
+<img src="https://komarev.com/ghpvc/?username=delend02&style=flat-square&color=blue" alt="views"/>
 </div>
