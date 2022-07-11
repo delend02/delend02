@@ -1,16 +1,32 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="240" />
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="24%" />
   
-  # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+  # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"/>
 </div>
 
 ### :bust_in_silhouette: About me:
 
-
+#### Education:
+- **Institution:** College of Information Technology and Construction. **Specialty:** Information systems and programming.
+- **Institution:** Kaliningrad state technical university. **Specialty:** Applied Informatics. 
+#### Additional:
+ - **Skillbox:** C#-developer.
 
 ### :muscle: My skills:
 
+<div align="center">
 
+<img width="5%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" />
+
+<img width="5%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
+
+<img width="5%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dotnetcore/dotnetcore-original.svg"/>
+
+<img width="5%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg"/>
+
+<img width="5%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg"/>
+
+</div>
 
 ### :fire: My stats:
 
