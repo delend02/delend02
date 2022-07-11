@@ -57,7 +57,9 @@ ___
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/delend1337)
+<a href="https://t.me/delend1337" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="views"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=delend02&style=flat-square&color=blue" alt="views"/>
+<p><img src="https://komarev.com/ghpvc/?username=delend02&style=flat-square&color=blue" alt="views"/></p>
 </div>
