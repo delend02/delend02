@@ -1,32 +1,46 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="24%" />
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200" />
   
-  # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"/>
+  <h1> 
+    Hey
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  </h1> 
+  
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="550"/>
 </div>
 
-### :bust_in_silhouette: About me:
+   
 
-#### Education:
+
+
+## :bust_in_silhouette: About me:
+
+<p>I am a C# developer from Russia.</p>
+<p>At the moment I am actively looking for a job.</p>
+In my free time I study literature and practice C#.
+
+### :school: Education:
+#### Basic
 - **Institution:** College of Information Technology and Construction. **Specialty:** Information systems and programming.
 - **Institution:** Kaliningrad state technical university. **Specialty:** Applied Informatics. 
-#### Additional:
+#### Additional
  - **Skillbox:** C#-developer.
 
-### :hammer_and_wrench: Tools and language:
+## :hammer_and_wrench: Tools and language:
 
 <div align="center">
 
-<img width="5%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" />
+<img width="50" align="top" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" />
 
-<img width="5%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
+<img width="50" align="top" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
 
-<img width="5%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dotnetcore/dotnetcore-original.svg"/>
+<img width="50" align="top" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dotnetcore/dotnetcore-original.svg"/>
 
-<img width="5%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg"/>
+<img width="50" align="top" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg"/>
 
 </div>
 
-### :fire: My stats:
+## :fire: My stats:
 
 <div align="center">
 <p>
