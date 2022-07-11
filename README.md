@@ -1,12 +1,18 @@
 <div align="center">
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="240" />
   
-  # Hey
+  # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </div>
 
-## :fire: About me:
-## :fire: My skills:
-## :fire: My Stats:
+### :bust_in_silhouette: About me:
+
+
+
+### :muscle: My skills:
+
+
+
+### :fire: My stats:
 
 <div align="center">
 <p>
@@ -17,4 +23,12 @@
 <p>
   <img width="43%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delend02&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&count_private=true&show_icons=true&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
 </p>
+</div>
+
+___
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/delend1337)
+
 </div>
