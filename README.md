@@ -15,8 +15,8 @@
 
 ## :bust_in_silhouette: About me:
 
-<p>I am a C# developer from Russia.</p>
-<p>At the moment I am actively looking for a job.</p>
+<p>I am a C# developer.</p>
+<p>At the moment I am working.</p>
 In my free time I study literature and practice C#.
 
 ### :school: Education:
